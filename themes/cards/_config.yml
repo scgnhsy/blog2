@@ -212,7 +212,7 @@ optimize:
 
   # 深色模式
   darkmode: 
-    enable: false
+    enable: true
 
 
     
