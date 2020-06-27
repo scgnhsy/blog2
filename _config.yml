@@ -5,9 +5,9 @@
 # Site
 title: Hexo
 subtitle: ''
-description: ''
+description: 'Hi, nice to meet you!'
 keywords:
-author: John Doe
+author: Shion
 language: en
 timezone: ''
 
@@ -51,6 +51,8 @@ highlight:
   tab_replace: ''
   wrap: true
   hljs: false
+head:
+  favicon: https://i.loli.net/2020/06/25/KGzSXexqk9BjOa2.png
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
