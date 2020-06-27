@@ -1,15 +1,15 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
-
 # Site
-title: Hexo
+title: hexo
 subtitle: ''
 description: 'Hi, nice to meet you!'
 keywords:
 author: Shion
 language: en
 timezone: ''
+
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -51,8 +51,7 @@ highlight:
   tab_replace: ''
   wrap: true
   hljs: false
-head:
-  favicon: https://i.loli.net/2020/06/25/KGzSXexqk9BjOa2.png
+
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')

@@ -115,7 +115,7 @@ meta:
   
   # 默认文章作者（可在front-matter中覆盖）
   author:
-    name: ChrAlpha
+    name: Shion
     url: https://chralpha.com
   
   # 文章创建日期
