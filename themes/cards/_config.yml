@@ -14,7 +14,7 @@
 head: 
   
   # 网站图标
-  favicon: /favicon.ico
+  favicon: https://i.loli.net/2020/06/27/pKg9zYhZkayBMFS.png
   
   # 社交分享链接
   opengraph: 
@@ -39,10 +39,10 @@ cover:
   sitename: Demo
 
   # 若设置 logo，则优先使用 logo 代替 sitename
-  logo: 
+  logo: https://i.loli.net/2020/06/27/ExHShZ9FKTdmuCG.jpg
   
   # logo 下方的一句话介绍
-  description: Hi, nice to meet you!
+  description: Welcome to my Blog!
   
   # cover 按钮菜单，通常用于站内导航
   menu: 
