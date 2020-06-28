@@ -74,10 +74,11 @@ style:
   color: 
     main_color: '9999CC'
     link_color: '9999CC'
+    
     link_color_hover: '#eb5757'
-    title: '#50596c'
+    title: '#FF6666'
     background: 'FFFFCC'
-    card_color: '#fff'
+    card_color: '#FF6666'
     font_color: '#4c4d4e'
     codeblock: '#eeeeee'
     categories_block: '#c2c2c2'
@@ -212,7 +213,7 @@ optimize:
 
   # 深色模式
   darkmode: 
-    enable: true
+    enable: false
 
 
     
