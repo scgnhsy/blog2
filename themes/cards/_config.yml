@@ -52,10 +52,6 @@ cover:
       url: /tags/
     - name: 归档
       url: /archives/
-    - name: 友链
-      url: /friends/
-    - name: Page
-      url: /page/
 
 
 
@@ -213,7 +209,7 @@ optimize:
 
   # 深色模式
   darkmode: 
-    enable: false
+    enable: true
 
 
     
@@ -228,7 +224,7 @@ comments:
   disqus: 
     enable: 
     shortname: 
-    disqusjs:
+    disqusjs:   
       enable: 
       siteName: 
       api: 

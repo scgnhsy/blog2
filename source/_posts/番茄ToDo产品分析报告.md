@@ -2,7 +2,7 @@
 title: 番茄ToDo产品分析报告
 date: 2020-03-18 21:18:55
 tags: 产品设计
-thumbnail: 
+layout: post
 ---
 ![SharedScreenshot30.jpg](https://i.loli.net/2020/06/28/RPNGSYxA2DjuU8z.jpg)
 番茄ToDo是一款帮助用户暂时远离手机，保持专注的时间管理软件。本文是关于番茄ToDo的产品分析报告。
